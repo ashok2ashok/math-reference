@@ -1,0 +1,1 @@
+A library to solve common math and quantitative problems that appear in our daily lives
